@@ -48,5 +48,7 @@ Pop!_Shop now includes Flatpak application support and the Flathub application r
 
 System76 continues to curate and package key applications such as Steam, Atom, and VS Code. Pop!_OS repositories are prioritized to provide the best user experience for these applications.
 
+Please use the Flathub version of applications not in the Pop!_OS repository. We're very interested in learning if you encounter issues.
+
 If you use scripting for applications such as GIMP and KiCAD, the debian package is recommended.
 
