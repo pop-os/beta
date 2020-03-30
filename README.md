@@ -8,9 +8,7 @@ We are conducting user testing with this beta release. **If you are interested i
 
 ## Testing and Reporting Issues
 
-We're seeking upgrade testing as well as fresh install testing. You can upgrade to 20.04 from Pop!\_OS 18.04 and 19.10. If you're on 19.04 you must first upgrade to 19.10.
-
-If you're upgrading, it is recommended that you backup your data, download the Pop!\_OS 20.04 Beta ISO and write it to a USB drive first.
+We're seeking upgrade testing as well as fresh install testing. You can upgrade to 20.04 from Pop!\_OS 18.04 and 19.10. If you're on 19.04 you must first upgrade to 19.10. It is recommended that you backup your data, download the Pop!\_OS 20.04 Beta ISO and write it to a USB drive first.
 
 Pop!_OS 20.04 Beta ISO is located here:
 
@@ -20,7 +18,7 @@ Upgrade from 19.04 to 20.04 by first upgrading to 19.10 with `sudo pop-upgrade r
 
 ## Reporting Issues
 
-Report issues you encounter on this repository. Tag the issue with 20.04 The issues will be triaged and added to the Pop!\_OS 20.04 project.
+Report issues you encounter on this repository. Label issues with the `20.04` tag. Issues will be triaged and added to the Pop!\_OS 20.04 project.
 
 ## Pop!_OS 20.04 Beta Release Notes
 
@@ -43,7 +41,7 @@ Pop!_OS 20.04 features automatic window tiling. To activate tiling mode, click t
 Click the tiling menu icon again and choose Keyboard Shortcuts. This help application will show you how to navigate, move, and resize windows all with your keyboard.
 
 #### New Application Switcher and Launcher
-Type Super + / to activate the new application switcher and launcher. Instead of Super+Tabbing through application icons, simply type Super + / and start typing the name of the application you want to switch to or launch.
+Type `Super` + `/` to activate the new application switcher and launcher. Instead of `Super` + `Tabbing` through application icons, simply type `Super` + `/` and start typing the name of the application you want to switch to or launch.
 
 #### Flatpak support with the Flathub
 Pop!_Shop now includes Flatpak application support and the Flathub application repository by default. The source of applications is visible when viewing applications details.
