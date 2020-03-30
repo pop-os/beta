@@ -2,7 +2,7 @@
 
 Thank you for participating in Pop!\_OS 20.04 beta release testing. This release brings major new features including Pop!_Shell tiling and the Flathub software repository. There are many corner cases with both of these technologies that your testing will help reveal.
 
-We are conducting user testing with this beta release. **If you are interested in participating in remote user testing with our UX architect DO NOT INSTALL THE BETA YET**. Contact Maria @ maria@system76.com with your interest. We will be choosing up to 10 participants.
+We are conducting user testing with this beta release. **If you are interested in participating in remote user testing with our UX architect DO NOT INSTALL THE BETA YET**. Contact Maria @ ux@system76.com with your interest. We will be choosing up to 10 participants.
 
 **THIS IS A BETA**. Bugs are expected and re-installs likely.
 
