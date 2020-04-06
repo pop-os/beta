@@ -12,9 +12,20 @@ We're seeking upgrade testing as well as fresh install testing. You can upgrade 
 
 Pop!_OS 20.04 Beta ISO is located here:
 
-Upgrade from 18.04 and 19.10 to 20.04 with the command `sudo pop-upgrade release upgrade systemd -f`
+Upgrade from 18.04 and 19.10 to 20.04 with the command:
+```
+sudo pop-upgrade release upgrade systemd -f
+```
 
-Upgrade from 19.04 to 20.04 by first upgrading to 19.10 with `sudo pop-upgrade release upgrade systemd`. After the successful updgrade, run `sudo pop-upgrade release upgrade systemd -f` to upgrade to the 20.04 beta.
+Upgrade from 19.04 to 20.04 by first upgrading to 19.10 with the command:
+```
+sudo pop-upgrade release upgrade systemd
+```
+
+After the successful upgrade to 19.10, you can then upgrade to 20.04 with the command:
+```
+sudo pop-upgrade release upgrade systemd -f
+```
 
 ## Reporting Issues
 
