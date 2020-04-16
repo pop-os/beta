@@ -6,8 +6,6 @@ This video provides an introduction to the tiling feature: https://youtu.be/-flt
 
 This workspaces video describes new keyboard shortcuts: https://youtu.be/v9oVZwJrjOc
 
-We are conducting user testing with this beta release. **If you are interested in participating in remote user testing with our UX architect DO NOT INSTALL THE BETA YET**. Contact Maria @ ux@system76.com with your interest. We will be choosing up to 10 participants.
-
 **THIS IS A BETA**. Bugs are expected and re-installs likely.
 
 ## Testing and Reporting Issues
