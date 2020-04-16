@@ -16,6 +16,11 @@ We're seeking upgrade testing as well as fresh install testing. You can upgrade 
 
 Pop!_OS 20.04 Beta ISO is located here:
 
+[Intel/AMD](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/20.04/amd64/intel/4/pop-os_20.04_amd64_intel_4.iso)
+
+
+[NVIDIA](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/20.04/amd64/nvidia/4/pop-os_20.04_amd64_nvidia_4.iso)
+
 Upgrade from 18.04 and 19.10 to 20.04 with the command:
 ```
 sudo pop-upgrade release upgrade systemd -f
