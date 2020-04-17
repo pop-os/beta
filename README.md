@@ -8,6 +8,13 @@ This workspaces video describes new keyboard shortcuts: https://youtu.be/v9oVZwJ
 
 **THIS IS A BETA**. Bugs are expected and re-installs likely.
 
+If you experience upgrading to the 20.04 beta with the `pop-upgrade` utility, it may be fixed by dropping to a TTY terminal ( <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F3</kbd> ) and running the following commands:
+```
+sudo apt -f install
+sudo apt full-upgrade
+```
+and then rebooting your machine. 
+
 ## Testing and Reporting Issues
 
 We're seeking upgrade testing as well as fresh install testing. You can upgrade to 20.04 from Pop!\_OS 18.04 and 19.10. If you're on 19.04 you must first upgrade to 19.10. It is recommended that you backup your data, download the Pop!\_OS 20.04 Beta ISO and write it to a USB drive first.
