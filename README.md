@@ -8,7 +8,7 @@ This workspaces video describes new keyboard shortcuts: https://youtu.be/v9oVZwJ
 
 **THIS IS A BETA**. Bugs are expected and re-installs likely.
 
-If you experience upgrading to the 20.04 beta with the `pop-upgrade` utility, it may be fixed by dropping to a TTY terminal ( <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F3</kbd> ) and running the following commands:
+If you experience trouble upgrading to the 20.04 beta with the `pop-upgrade` utility, it may be fixed by dropping to a TTY terminal ( <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F3</kbd> ) and running the following commands:
 ```
 sudo apt -f install
 sudo apt full-upgrade
