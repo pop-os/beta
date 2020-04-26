@@ -41,11 +41,23 @@ After the successful upgrade to 19.10, you can then upgrade to 20.04 with the co
 sudo pop-upgrade release upgrade systemd -f
 ```
 
-If you encounter issues running the `pop-upgrade` command, in a second terminal window, run the command:
+If you encounter issues running the `pop-upgrade` command, you can view the daemon logs with the command:
+
 ```
+sudo journalctl -u pop-upgrade
+```
+
+Alternatively, in a second terminal window you can stop the system daemon and then run the daemon in the foreground with the commands:
+
+```
+sudo systemctl stop pop-upgrade
 sudo pop-upgrade daemon
 ```
-And then run the upgrade command again.
+and then run the upgrade command again. When you are finished, you can restart the system daemon with the command:
+
+```
+sudo systemctl start pop-upgrade
+```
 
 ## Reporting Issues
 
