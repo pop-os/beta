@@ -1,6 +1,6 @@
 # Pop!\_OS 21.04 Beta Testing
 
-Thank you for participating in Pop!\_OS 21.04 beta release testing! This release brings major new features including Desktop Environment changes and desktop customization options with COSMIC. There are many corner cases with those changes that your testing will help reveal.
+Thank you for participating in Pop!\_OS 21.04 beta release testing! This release brings major new changes to the Desktop Environment including customization options with COSMIC. There are many corner cases with those features that your testing will help reveal.
 
 **THIS IS A BETA**. Bugs are expected and re-installs likely.
 
