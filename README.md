@@ -16,7 +16,7 @@ Pop!\_OS 21.04 Beta ISO is located here:
 
 Upgrade from Pop!\_OS 20.10 to Pop!\_OS 21.04 with the command:
 ```
-sudo pop-upgrade release upgrade systemd -f
+sudo pop-upgrade release upgrade -f
 ```
 
 If you encounter issues running the `pop-upgrade` command, you can view the daemon logs with the command:
