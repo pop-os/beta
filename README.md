@@ -11,8 +11,10 @@ We're seeking upgrade testing as well as fresh install testing. You can upgrade 
 Pop!\_OS 21.04 Beta ISO is located here:
 
 [Intel/AMD](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.04/amd64/intel/3/pop-os_21.04_amd64_intel_3.iso)
+[SHA256 Sum](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.04/amd64/intel/3/SHA256SUMS)
 
 [NVIDIA](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.04/amd64/nvidia/3/pop-os_21.04_amd64_nvidia_3.iso)
+[SHA256 Sum](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.04/amd64/nvidia/3/SHA256SUMS)
 
 Upgrade from Pop!\_OS 20.10 to Pop!\_OS 21.04 with the command:
 ```
