@@ -51,7 +51,7 @@ sudo systemctl start pop-upgrade
 
 ## Reporting Issues
 
-Report issues you encounter on this repository. Issues will be triaged and added to the Pop!\_OS 21.10 project. If you have any usability feedback, label issues with `ux` tag or contact our UX architect at ux@system76.com.
+Report issues you encounter on this repository. Issues will be triaged and added to the [Pop!\_OS 21.10 project](https://github.com/orgs/pop-os/projects/16). If you have any usability feedback, label issues with `ux` tag or contact our UX architect at ux@system76.com.
 
 ## Release Notes
 
