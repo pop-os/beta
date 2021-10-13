@@ -2,7 +2,7 @@
 
 Thank you for participating in Pop!\_OS 21.10 beta release testing! This release integrates COSMIC with GNOME 40. There are many corner cases with those features that your testing will help reveal.
 
-**THIS IS A BETA**. Bugs are expected and re-installs likely.
+**THIS IS A BETA**. Bugs are expected and re-installs are likely.
 
 ## Installing or Upgrading
 
