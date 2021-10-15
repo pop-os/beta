@@ -26,7 +26,16 @@ Experimental Raspberry Pi 4 (and 400) Image:
 - [SHA256SUMS](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/3/SHA256SUMS)
 - [SHA256SUMS.gpg](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/3/SHA256SUMS.gpg)
 
-Upgrade from Pop!\_OS 21.04 to Pop!\_OS 21.10 with the command:
+Before upgrading an existing Pop!\_OS installation, run these commands to collect information about your system's installed sources and packages:
+```
+cat /etc/apt/sources.list >> sources.txt
+ls -alh /etc/apt/sources.list.d/ >> sources.txt
+cat /etc/apt/sources.list.d/* >> sources.txt
+apt list --installed > packages.txt
+```
+Save these files in case they're needed to recreate any issues encountered while upgrading.
+
+Then, upgrade from Pop!\_OS 21.04 to Pop!\_OS 21.10 with the command:
 ```
 sudo pop-upgrade release upgrade -f
 ```
