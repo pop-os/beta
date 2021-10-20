@@ -23,9 +23,9 @@ NVIDIA Graphics ISO:
 Experimental Raspberry Pi 4 (and 400) Image:
 - You must have at least 8GB of storage and 4GB of RAM. It is recommended to boot from a USB 3 drive for performance reasons.
 - The root partition will not automatically expand yet, and must be expanded manually.
-- [Image](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/3/pop-os_21.10_arm64_raspi_3.img.xz)
-- [SHA256SUMS](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/3/SHA256SUMS)
-- [SHA256SUMS.gpg](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/3/SHA256SUMS.gpg)
+- [Image](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/4/pop-os_21.10_arm64_raspi_4.img.xz)
+- [SHA256SUMS](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/4/SHA256SUMS)
+- [SHA256SUMS.gpg](http://pop-iso.sfo2.digitaloceanspaces.com/21.10/arm64/raspi/4/SHA256SUMS.gpg)
 
 Before upgrading an existing Pop!\_OS installation, run these commands to collect information about your system's installed sources and packages:
 ```
