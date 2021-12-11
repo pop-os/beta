@@ -11,14 +11,14 @@ We're seeking upgrade testing as well as fresh install testing. You can upgrade 
 Pop!\_OS 21.10 Beta ISOs are located here:
 
 Intel/AMD Graphics ISO:
-- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/2/pop-os_21.10_amd64_intel_2.iso)
-- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/2/SHA256SUMS)
-- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/2/SHA256SUMS.gpg)
+- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/3/pop-os_21.10_amd64_intel_3.iso)
+- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/3/SHA256SUMS)
+- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/intel/3/SHA256SUMS.gpg)
 
 NVIDIA Graphics ISO:
-- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/2/pop-os_21.10_amd64_nvidia_2.iso)
-- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/2/SHA256SUMS)
-- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/2/SHA256SUMS.gpg)
+- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/3/pop-os_21.10_amd64_nvidia_3.iso)
+- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/3/SHA256SUMS)
+- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/21.10/amd64/nvidia/3/SHA256SUMS.gpg)
 
 Experimental Raspberry Pi 4 (and 400) Image:
 - You must have at least 8GB of storage and 4GB of RAM. It is recommended to boot from a USB 3 drive for performance reasons.
