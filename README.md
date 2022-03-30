@@ -8,6 +8,8 @@ Thank you for participating in Pop!\_OS 22.04 beta release testing!
 
 We're seeking upgrade testing as well as fresh install testing. You can upgrade to Pop!\_OS 22.04 from Pop!\_OS 21.10. It is recommended that you backup your data, download the Pop!\_OS 22.04 Beta ISO and write it to a USB drive first.
 
+Upgrading from 20.04 is possible, but `pop-upgrade` will first upgrade to 21.10, then you will need to upgrade again to get to 22.04. Support for upgrading directly to the 22.04 beta from 20.04 is actively being worked on.
+
 Pop!\_OS 22.04 Beta ISOs are located here:
 
 Intel/AMD Graphics ISO:
