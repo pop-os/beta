@@ -33,7 +33,7 @@ Save these files in case they're needed to recreate any issues encountered while
 
 Then, upgrade from Pop!\_OS 21.10 to Pop!\_OS 22.04 with the command:
 ```
-sudo pop-upgrade release upgrade -f
+pop-upgrade release upgrade -f
 ```
 
 If you encounter issues running the `pop-upgrade` command, you can view the daemon logs with the command:
