@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us make Pop!_OS 21.10 the best release yet!
+about: Create a report to help us make Pop!_OS 22.04 the best release yet!
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**How did you upgrade to 21.10? (Fresh install / Upgrade)**
+**How did you upgrade to 22.04? (Fresh install / Upgrade)**
 <!--If you upgraded, please list from which Pop!_OS version you upgraded -->
  
 
