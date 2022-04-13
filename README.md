@@ -24,9 +24,7 @@ NVIDIA Graphics ISO:
 
 Before upgrading an existing Pop!\_OS installation, run these commands to collect information about your system's installed sources and packages:
 ```
-cat /etc/apt/sources.list >> sources.txt
-ls -alh /etc/apt/sources.list.d/ >> sources.txt
-cat /etc/apt/sources.list.d/* >> sources.txt
+tail -n +1 /etc/apt/sources.list /etc/apt/sources.list.d/* > sources.txt
 apt list --installed > packages.txt
 ```
 Save these files in case they're needed to recreate any issues encountered while upgrading.
