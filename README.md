@@ -13,14 +13,14 @@ Upgrading from 20.04 is possible, but `pop-upgrade` will first upgrade to 21.10,
 Pop!\_OS 22.04 Beta ISOs are located here:
 
 Intel/AMD Graphics ISO:
-- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/2/pop-os_22.04_amd64_intel_2.iso)
-- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/2/SHA256SUMS)
-- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/2/SHA256SUMS.gpg)
+- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/3/pop-os_22.04_amd64_intel_3.iso)
+- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/3/SHA256SUMS)
+- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/intel/3/SHA256SUMS.gpg)
 
 NVIDIA Graphics ISO:
-- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/2/pop-os_22.04_amd64_nvidia_2.iso)
-- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/2/SHA256SUMS)
-- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/2/SHA256SUMS.gpg)
+- [ISO](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/3/pop-os_22.04_amd64_nvidia_3.iso)
+- [SHA256SUMS](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/3/SHA256SUMS)
+- [SHA256SUMS.gpg](https://pop-iso.sfo2.cdn.digitaloceanspaces.com/22.04/amd64/nvidia/3/SHA256SUMS.gpg)
 
 Before upgrading an existing Pop!\_OS installation, run these commands to collect information about your system's installed sources and packages:
 ```
